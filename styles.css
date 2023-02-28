@@ -60,13 +60,12 @@ button[type="submit"] {
       button[type="submit"]:hover {
         background-color: #f37446;
       }
-
       p {
-        font-size: 14px;
-        text-align: center;
+          color: #000;
+          size: 8px;
       }
 
       a {
-        color: #fff;
+        color: #881;
         text-decoration: underline;
       }
